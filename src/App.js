@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -15,9 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React and have fun
+          <h1>Sudhanshu</h1>
         </a>
       </header>
+      <h1>Auto deployment learning...</h1>
     </div>
   );
 }
